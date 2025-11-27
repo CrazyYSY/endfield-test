@@ -1,0 +1,5 @@
+{
+  "name": "Endfield Access Check Clone",
+  "description": "A replica of the Arknights: Endfield access check page with a custom result state.",
+  "requestFramePermissions": []
+}
